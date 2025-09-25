@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Solbi+Lee+%F0%9F%91%8B;Building+AI+Solutions+with+Passion+%F0%9F%92%A1;From+Finance+to+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- 소셜 배지 -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://cat-b0.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Tistory Blog"/>
   </a>
@@ -20,7 +20,7 @@
   <a href="https://huggingface.co/solbi12" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-</p>
+</p> -->
 
 <!-- 방문자 수 & 팔로워 -->
 <p align="center">
