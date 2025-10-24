@@ -111,10 +111,10 @@
 <table>
 <tr>
 <td width="33%">
-<h3 align="center">♿ 교통약자 전용 내비게이션</h3>
+<h3 align="center">📈 자연어 기반 데이터 추출·분석·보고서 자동화 플랫폼</h3>
 <p align="center">
-  <a href="https://github.com/leesolbi1212/accessible_navigation_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=accessible_navigation_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
+  <a href="https://github.com/solv1209/agentic-data-insight-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solv1209&repo=accessible_navigation_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
   </a>
 </p>
 </td>
