@@ -111,7 +111,7 @@
 <table>
 <tr>
 <td width="33%">
-<h3 align="center">📈 자연어 기반 데이터 추출·분석·보고서 자동화 플랫폼</h3>
+<h3 align="center">📈 NLP 데이터 추출·분석·보고서 플랫폼</h3>
 <p align="center">
   <a href="https://github.com/solv1209/agentic-data-insight-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=solv1209&repo=agentic-data-insight-hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
@@ -122,7 +122,7 @@
 <h3 align="center">🐝 꿀벌 탐지 & 분류</h3>
 <p align="center">
   <a href="https://github.com/leesolbi1212/bee-detection-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=bee-detection-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solv1209&repo=bee-detection-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
   </a>
 </p>
 </td>
@@ -130,7 +130,7 @@
 <h3 align="center">📄 AI 금융 문서 OCR</h3>
 <p align="center">
   <a href="https://github.com/leesolbi1212/ocr_toy_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=ocr_toy_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=solv1209&repo=ocr_toy_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
   </a>
 </p>
 </td>
