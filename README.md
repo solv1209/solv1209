@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://www.notion.so/Lee-Sol-Bi-26aec608ae4a8002855cf0a3fd1219f2](https://www.notion.so/Lee-Sol-Bi-296ec608ae4a8182ad8ec5c66298cd15)" target="_blank">
+  <a href="https://www.notion.so/Lee-Sol-Bi-296ec608ae4a8182ad8ec5c66298cd15" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
   </a>
   <a href="https://huggingface.co/solbi12" target="_blank">
